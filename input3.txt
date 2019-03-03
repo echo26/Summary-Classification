@@ -1,0 +1,81 @@
+Defining Social Psychology: History and Principles
+Learning objectives
+
+1. Describe how social situations lead to defining cultural norms.
+
+2. Identify factors that influence our social interactions.
+
+3. Be able to explain the role of reciprocal altruism in our society. 
+
+
+The Person and the Social Situation
+
+Social psychology is the study of the dynamic relationship between individuals and the people around them. Each of us is different, and our individual characteristics, including our personality traits, desires, motivations, and emotions, have an important impact on our social behavior. But our behavior is also profoundly influenced by the social situation—the people with whom we interact every day. These people include our friends and family, our fraternity brothers or sorority sisters, our religious groups, the people we see on TV or read about on the web, or think about, remember, or even imagine. 
+
+
+Social psychology is largely the study of the social situation. Our social situations create social influence, the process through which other people change our thoughts, feelings, and behaviors and through which we change theirs. 
+
+
+The Social Situation Creates Powerful Social Influence
+
+When people are asked to indicate the things that they value the most, they usually mention their social situation—that is, their relationships with other people (Baumeister & Leary, 1995; Fiske & Haslam, 1996). When we work together on a class project, we count on others to work with us to get the job done. We develop social bonds with those people, and we expect that they will come through to help us meet our goals. The importance of others shows up in every aspect of our lives—other people teach us what we should and shouldn’t do, what we should and shouldn’t think, and even what we should and shouldn’t like. 
+
+
+In addition to the people with whom we are currently interacting, we are influenced by people who are not physically present but who are nevertheless part of our thoughts and feelings. Imagine that you are driving home on a deserted country road late at night. You come to a stop sign. Most likely, you stop at the sign, or at least slow down. You do so because the behavior has been internalized: Even though no one is there to watch you, others are still influencing you—you’ve learned about the rules and laws of society, and you tend to obey them. We carry our own personal social situations—our experiences with our parents, teachers, authorities, and friends—around with us every day. An important principle of social psychology, is that although individuals’ characteristics do matter, the social situation is often a stronger determinant of behavior than is personality. When social psychologists analyze an event such as a cult suicide, they are likely to focus more on the characteristics of the situation (e.g., the strong leader and the group pressure provided by the other group members) than on the characteristics of the cult members themselves). It is tempting to assume that the people who commit extreme acts, such as members of suicide cults, are unusual or extreme people. And yet much research suggests that these behaviors are caused more by the social situation than they are by the characteristics of the individuals and that it is wrong to focus so strongly on explanations of individuals’ characteristics (Gilbert & Malone, 1995). 
+
+
+There is perhaps no clearer example of the powerful influence of the social situation than that found in research showing the enormous role that others play in our physical and mental health. Social support refers to the comfort that we receive from the people around us—for instance, our family, friends, and coworkers (Diener, Suh, Lucas, & Smith, 1999; Diener, Tamir, & Scollon, 2006). 
+
+
+Social Influence Creates Social Norms
+
+In some cases, social influence occurs rather passively, without any obvious intent of one person to influence the other, such as when we learn about and adopt the beliefs and behaviors of the people around us, often without really being aware that we are doing so. Social influence occurs when a young child adopts the beliefs and values of his or her parents without really being aware of it. In other cases, social influence is anything but subtle; it involves one or more individuals actively attempting to change the beliefs or behaviors of others, as is evident in the attempts of the members of a jury to get a dissenting member to change his or her opinion. 
+
+
+One outcome of social influence is the development of social norms—the ways of thinking, feeling, or behaving that are shared by group members and perceived by them as appropriate (Asch, 1955; Cialdini, 1993). Norms include customs, traditions, standards, and rules, as well as the general values of the group. Through norms, we learn what people actually do (“people in the United States are more likely to eat scrambled eggs in the morning and spaghetti in the evening,”) and also what we should do (“do unto others as you would have them do unto you”) and shouldn’t do (“do not make racist jokes”). There are norms about almost every possible social behavior, and these norms have a big influence on our actions. 
+
+
+Different Cultures Have Different Norms
+
+The social norms that guide our everyday behaviors and that create social influence derive in large part from our culture. A culture represents a group of people, normally living within a given geographical region, who share a common set of social norms, including religious and family values and moral beliefs (Fiske, Kitayama, Markus, & Nisbett, 1998; Matsumoto, 2001). The culture in which we live affects our thoughts, feelings, and behavior through teaching, imitation, and other forms of social transmission (Mesoudi, 2009). It is not inappropriate to say that our culture defines our lives just as much as our evolutionary experience does. Cultures differ in terms of the particular norms that they find important and that guide the behavior of the group members. Some cultures are more concerned with arriving and departing according to a fixed schedule, whereas others consider time in a more flexible manner (Levine & Norenzayan, 1999). It has also been argued that there are differences in the extent to which people in different cultures are bound by social norms and customs, rather than being free to express their own individuality (Gelfand et al., 1996). There are also cultural differences regarding personal space, such as how close individuals stand to each other when talking, as well as differences in the communication styles individuals employ. 
+
+
+It is important to be aware of cultures and cultural differences, at least in part because people with different cultural backgrounds are increasingly coming into contact with each other as a result of increased travel and immigration and the development of the Internet and other forms of communication. In the United States, for instance, there are many different ethnic groups, and the proportion of the population that comes from minority (non-White) groups is increasing from year to year. In fact, minorities, which are now roughly one third of the U.S. population, are expected to become the majority by 2042. These changes will result in considerable growth in cultural diversity in the United States, and although this will create the potential for useful cooperation and productive interaction, it may also produce unwanted social conflict. 
+
+
+Affect, Behavior, and Cognition
+
+Social psychology is based on the ABCs of affect, behavior, and cognition. In order to effectively maintain and enhance our own lives through successful interaction with others, we rely on these three basic and interrelated human capacities:
+
+1. Affect (feelings)
+
+2. Behavior (interactions)
+
+3. Cognition (thought) 
+
+
+You can see that these three aspects directly reflect the idea in our definition of social psychology. 
+
+
+Social Cognition: Thinking and Learning About Others
+
+The human brain contains about 100 billion neurons, each of which can make contact with thousands of other neurons. The distinguishing brain feature in mammals, including humans, is the more recently evolved cerebral cortex—the part of the brain that is involved in thinking. Humans are highly intelligent, and they use cognition in every part of their social lives. Psychologists refer to cognition as the mental activity of processing information and using that information in judgment. Social cognition is cognition that relates to social activities and that helps us understand and predict the behavior of ourselves and others. Over time, people develop a set of social knowledge that contains information about the self, other people, social relationships, and social groups. Two types of knowledge are particularly important in social psychology: schemas and attitudes. A schema is a knowledge representation that includes information about a person or group (e.g., our knowledge that Joe is a friendly guy). An attitude is a knowledge representation that includes primarily our liking or disliking of a person, thing, or group ("I really like Julie"). 
+
+
+Once we have formed them, both schemas and attitudes allow us to judge quickly and without much thought whether someone or something we encounter is good or bad, to be sought out or avoided. Thus schemas and attitudes have an important influence on our social information processing and social behavior. Social cognition involves the active interpretation of events. As a result, different people may draw different conclusions about the same events. When Odette smiles at Robert, he might think that she is romantically attracted to him, whereas she might think that she’s just being friendly. The fact that different people interpret the same events differently makes life interesting, but it can sometimes lead to disagreement and conflict. Social psychologists study how people interpret and understand their worlds and, particularly, how they make judgments about the causes of other peoples’ behavior. 
+
+
+Social Affect: Feelings About Ourselves and Others
+
+Affect refers to the feelings we experience as part of our everyday lives. As our day progresses, we may find ourselves feeling happy or sad, jealous or grateful, proud or embarrassed. Although affect can be harmful if it is unregulated, our affective experiences normally help us to function efficiently and in a way that increases our chances of survival. Affect signals us that things are going OK (e.g., because we are in a good mood or are experiencing joy or serenity) or that things are not going so well (we are in a bad mood, anxious, or upset). Affect can also lead us to engage in behaviors that are appropriate to our perceptions of a given situation. When we are happy, we may seek out and socialize with others; and when we are angry, we may attack. We experience affect in the form of mood and emotions. Mood refers to the positive or negative feelings that are in the background of our everyday experiences. Most of the time, we are in a relatively good mood, and positive mood has some positive consequences—it encourages us to do what needs to be done and to make the most of the situations we are in (Isen, 2003). When we are in a good mood, our thought processes open up, and we are more likely to approach others. We are more friendly and helpful to others when we are in a good mood than when we are in a bad mood, and we may think more creatively (De Dreu, Baas, & Nijstad, 2008). Emotions are brief, but often intense, mental and physiological feeling states. In comparison with moods, emotions are shorter lived, stronger, and more specific forms of affect. Emotions are caused by specific events (things that make us, for instance, jealous or angry), and they are accompanied by high levels of arousal. Whereas we experience moods in normal, everyday situations, we experience emotions only when things are out of the ordinary. Emotions serve an adaptive role in helping us guide our social behaviors. Just as we run from a snake because the snake elicits fear, we may try to make amends with other people when we feel guilty. 
+
+
+Social Behavior: Interacting With Others
+
+Because humans interact with and influence each other every day, we have developed the ability to make these interactions proceed efficiently and effectively. We cooperate with other people to gain outcomes that we could not obtain on our own, and we exchange goods, services, and other benefits with other people. These behaviors are essential for survival in any society (Kameda, Takezawa, & Hastie, 2003; Kameda, Takezawa, Tindale, & Smith, 2002). The sharing of goods, services, emotions, and other social outcomes is known as social exchange. Social rewards (the positive outcomes that we give and receive when we interact with others) include such benefits as attention, praise, affection, love, and financial support. Social costs (the negative outcomes that we give and receive when we interact with others), on the other hand, include, for instance, the frustrations that accrue when disagreements with others develop, the guilt that results if we perceive that we have acted inappropriately, and the effort involved in developing and maintaining harmonious interpersonal relationships. 
+
+
+People generally prefer to maximize their own outcomes by attempting to gain as many social rewards as possible and by attempting to minimize their social costs. Such behavior is consistent with the goal of protecting and enhancing the self. Although people do behave according to the goals of self-concern, these goals are tempered by other concerns: the goals of respecting, accepting, and cooperating with others. As a result, social exchange is generally fair and equitable, at least in the long run. 
+
+
+One of the outcomes of living together in small groups over thousands of years is that humans have learned to cooperate by giving benefits to those who are in need, with the expectation of a return of benefits at a future time. This mutual, and generally equitable, exchange of benefits is known as reciprocal altruism. An individual who is temporarily sick will benefit from the help that he or she might get from others during this time. According to the principle of reciprocal altruism, other group members will be willing to give that help to the needy individual because they expect that similar help will be given to them should they need it. However, in order for reciprocal altruism to work, people have to keep track of how benefits are exchanged, to be sure that everyone plays by the rules. In fact, research has shown that people seem to be particularly good at detecting “cheaters”—those who do not live up to their obligations in reciprocal altruism—and that these individuals are judged extremely negatively (Mealey, Daood, & Krage, 1996; Tooby & Cosmides, 1992). 
