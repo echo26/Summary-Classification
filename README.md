@@ -1,7 +1,7 @@
 # Summary-Classification
 
-
-This project used Python, NLTK, RegEx and basic Machine Learning Method.
+This project classify student summary in speech into an original text that each student summarized.
+I used Python, NLTK, RegEx and Naive Bayes.
 
 From 3 different articles of text file, chunked noun phrases using RegEx and NLTK. Then, made a bag of noun phrases.
 
